@@ -28,4 +28,3 @@ No Activity Tracked This Week
 
 <!--END_SECTION:waka-->
 
-![Wakatime Stats](https://wakatime.com/share/@elvescmd/f2eec315-8475-4227-8d1d-421288a89d6a.svg)
