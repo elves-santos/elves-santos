@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**elves-santos/elves-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi 🙋🏽‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my profile, here you should find a little bit of everything, if something interests you, call me! Let's talk,
+I am a young enthusiast and lover of technology, I like to observe and know how things really work behind the curtains, 
+education will transform the world, especially when it is allied to technology.
+
+### Detailed information
+* Focused in aplications C# using .NET Framework
+* **Course**: Analysis and systems development.
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs%2052%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+<!--END_SECTION:waka-->
+
+![Wakatime Stats](https://wakatime.com/share/@elvescmd/f2eec315-8475-4227-8d1d-421288a89d6a.svg)
